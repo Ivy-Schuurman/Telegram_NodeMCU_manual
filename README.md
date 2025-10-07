@@ -262,11 +262,11 @@ Go back to Telegram. There, in the chat with BotFather you can find the link to 
 
 Once you have done that, you can press start or type '/start' to get the bot started. 
 
-<img width="250" alt="image" src="images/step_4_image_2.png" />
+<img width="250" alt="image" src="images/step_4_image_2.PNG" />
 
 You can then give the commands '/led_on' or '/led_off' to turn the LED light strip on or off.
 
-<img width="250" alt="image" src="images/step_4_image_3.png" />
+<img width="250" alt="image" src="images/step_4_image_3.PNG" />
 
 The result will look something like [this](https://youtube.com/shorts/GQqtGxcyNuk)! 
 
