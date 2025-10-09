@@ -275,7 +275,7 @@ Hopefully this step by step guide was clear and easy to use, and you can now tog
 ## Error messages:
 While doing this project you might end up with some errors. Here are a couple and how to fix them!
 
-### 1
+### Error 1
 When you upload your code you can get this error message:
 - Compilation error: 'Adafruit_NeoPixel' does not name a type
 
@@ -307,6 +307,7 @@ If you want you can remove it from the top and add it to where the other code fo
 
 Used to fix the error:
 - https://forum.arduino.cc/t/problem-with-adafruit_neopixel-library/216562/5 
+
 
 
 
